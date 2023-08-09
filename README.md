@@ -6,6 +6,6 @@ My favorite things:
 *version control
 *proper training
 To Do
-[ ] finish Hello World tutorial
+[x] finish Hello World tutorial
 [ ] add a collaborator
 [ ] find a project
